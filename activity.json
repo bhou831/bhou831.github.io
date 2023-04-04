@@ -173,7 +173,7 @@
         "hotel": "代定，暫定在哥大附近",
         "hotelAddress": "booking.com",
         "photos": [
-            { "src": "media/bs_mn.jpg", "caption": "波士頓夏天的早晨" },
+            { "src": "media/bos_mn.jpg", "caption": "波士頓夏天的早晨" },
             { "src": "media/wdbr.jpg", "caption": "Woodbury奧特萊斯" },
             { "src": "media/road.jpg", "caption": "寧靜的鄉間小道" }
         ]
