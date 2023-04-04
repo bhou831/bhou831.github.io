@@ -18,39 +18,45 @@
         "hotelURL": "https://www.airbnb.com/rooms/685078233761281437?source_impression_id=p3_1680634900_3z%2Fdh38hTP44vGjg",
         "hotelAddress": "Wild Basin Ledge, Austin, TX",
         "photos": [
-            { "src": "media/austin5.png", "caption": "奧斯汀市中心" },
+            { "src": "media/austin2.png", "caption": "奧斯汀Oasis晚霞" },
             { "src": "media/austin1.png", "caption": "VISA奧斯汀" },
             { "src": "media/austin3.png", "caption": "晚上入住的Airbnb" }
         ]
     },
     {
         "date": "5月8日",
-        "activity": "Arrival and check-in",
-        "hotel": "Hotel Name",
-        "hotelAddress": "123 Hotel Street, City, Country",
+        "activity": "早上前往德州文藝商圈domain，欣賞當地的藝術和文化。中午品嚐當地的墨西哥菜tex-mex，感受德州特有的墨西哥風情。下午可以前往市中心和德州特色文藝街區south congress逛逛。在Zilker Park公園觀賞美麗的日落結束這一天，讓您的旅程更加浪漫和難忘。晚餐我們將在airbnb做飯，體驗當地的生活方式，享受溫馨的家庭氛圍。",
+        "hotel": "Oasis in the Hills",
+        "hotelURL": "https://www.airbnb.com/rooms/685078233761281437?source_impression_id=p3_1680634900_3z%2Fdh38hTP44vGjg",
+        "hotelAddress": "Wild Basin Ledge, Austin, TX",
         "photos": [
-            { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+            { "src": "media/austin5.png", "caption": "奧斯汀水上活動" },
+            { "src": "media/austin4.png", "caption": "奧斯汀Domain區域" },
+            { "src": "media/austin_zilker.png", "caption": "奧斯汀Zilker Park" }
         ]
     },
     {
         "date": "5月9日",
-        "activity": "Arrival and check-in",
-        "hotel": "Hotel Name",
-        "hotelAddress": "123 Hotel Street, City, Country",
+        "activity": "早上，您需要收拾好行李並在10:00以前退房。中午品嚐美國南方特色餐車food truck提供的美食。午餐後，如果時間允許，可以前往Austin附近參觀洞穴或者划船，享受美好的時光。下午，我們將為您安排乘坐美聯航5:00的航班UA376前往華盛頓。當您到達以後，我們將為您安排在華盛頓的airbnb入住，讓您可以在那裡休息，重新調整旅行的節奏。",
+        "hotel": "The View DC",
+        "hotelURL": "https://www.airbnb.com/rooms/40567873?source_impression_id=p3_1680636236_h2mVqPrViO4if9kM",
+        "hotelAddress": "1617 W Street Southeast Washington, DC 20020",
         "photos": [
-            { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+            { "src": "media/austin6.png", "caption": "奧斯汀水上活動" },
+            { "src": "media/austin_food.jpeg", "caption": "奧斯汀餐車" },
+            { "src": "media/dc_bnb.png", "caption": "晚上入住的Airbnb" }
         ]
     },
     {
         "date": "5月10日",
-        "activity": "Arrival and check-in",
-        "hotel": "Hotel Name",
-        "hotelAddress": "123 Hotel Street, City, Country",
+        "activity": "早上，您需要收拾好行李並在10:00以前退房。中午品嚐美國南方特色餐車food truck提供的美食。午餐後，如果時間允許，可以前往Austin附近參觀洞穴或者划船，享受美好的時光。下午，我們將為您安排乘坐美聯航5:00的航班UA376前往華盛頓。當您到達以後，我們將為您安排在華盛頓的airbnb入住，讓您可以在那裡休息，重新調整旅行的節奏。",
+        "hotel": "The View DC",
+        "hotelURL": "https://www.airbnb.com/rooms/40567873?source_impression_id=p3_1680636236_h2mVqPrViO4if9kM",
+        "hotelAddress": "1617 W Street Southeast Washington, DC 20020",
         "photos": [
-            { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+            { "src": "media/austin6.png", "caption": "奧斯汀水上活動" },
+            { "src": "media/austin_food.jpeg", "caption": "奧斯汀餐車" },
+            { "src": "media/dc_bnb.png", "caption": "晚上入住的Airbnb" }
         ]
     },
     {
