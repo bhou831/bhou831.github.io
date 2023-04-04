@@ -49,54 +49,62 @@
     },
     {
         "date": "5月10日",
-        "activity": "早上，您需要收拾好行李並在10:00以前退房。中午品嚐美國南方特色餐車food truck提供的美食。午餐後，如果時間允許，可以前往Austin附近參觀洞穴或者划船，享受美好的時光。下午，我們將為您安排乘坐美聯航5:00的航班UA376前往華盛頓。當您到達以後，我們將為您安排在華盛頓的airbnb入住，讓您可以在那裡休息，重新調整旅行的節奏。",
+        "activity": "早上睡到自然醒，可以開車前往dc歷史景點，參觀傑斐遜紀念堂，林肯紀念堂，華盛頓紀念碑等。中午在附近午餐。下午往東可以參觀周圍的博物館例如自然歷史博物館，國家藝術博物館，以及國會山。晚飯可吃新疆菜，飯後回住所休息。",
         "hotel": "The View DC",
         "hotelURL": "https://www.airbnb.com/rooms/40567873?source_impression_id=p3_1680636236_h2mVqPrViO4if9kM",
         "hotelAddress": "1617 W Street Southeast Washington, DC 20020",
         "photos": [
-            { "src": "media/austin6.png", "caption": "奧斯汀水上活動" },
-            { "src": "media/austin_food.jpeg", "caption": "奧斯汀餐車" },
-            { "src": "media/dc_bnb.png", "caption": "晚上入住的Airbnb" }
+            { "src": "media/dc2.png", "caption": "華盛頓紀念碑" },
+            { "src": "media/dc1.png", "caption": "國會山" },
+            { "src": "media/dolan.png", "caption": "Dolan新疆菜" }
         ]
     },
     {
         "date": "5月11日",
-        "activity": "Arrival and check-in",
-        "hotel": "Hotel Name",
-        "hotelAddress": "123 Hotel Street, City, Country",
+        "activity": "早上您可以睡到自然醒，放鬆心情，沉浸在美好的假期中。下午將要前往dc周邊的景點，例如dc植物園，欣賞美麗的花卉和自然風景。之後，您可以前往Georgetown逛街，購買紀念品或者當地特色商品。晚上就近在Georgetown享受美食，欣賞美麗的夜景。最後，回到住所早點休息，為明天的旅程做好準備。",
+        "hotel": "The View DC",
+        "hotelURL": "https://www.airbnb.com/rooms/40567873?source_impression_id=p3_1680636236_h2mVqPrViO4if9kM",
+        "hotelAddress": "1617 W Street Southeast Washington, DC 20020",
         "photos": [
-            { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+            { "src": "media/dc4.png", "caption": "華盛頓植物園" },
+            { "src": "media/dc3.jpeg", "caption": "華盛頓georgetown運河" },
+            { "src": "media/dc5.jpeg", "caption": "華盛頓georgetown的傍晚" }
         ]
     },
     {
         "date": "5月12日",
-        "activity": "Arrival and check-in",
-        "hotel": "Hotel Name",
-        "hotelAddress": "123 Hotel Street, City, Country",
+        "activity": "早上10:00退房後，您可以前往rockville享用地道的中國美食，那裡是華盛頓特區周圍規模比較大的華人區。午餐後，您可以選擇驅車前往賓夕法尼亞的流水別墅，或者繼續留在dc參觀周圍景點，例如DC動物園或者the wharf。如果您下午參觀流水別墅，晚餐會安排在賓夕法尼亞的匹茲堡，然後入住休息。如果您下午留在dc，晚餐會繼續安排在rockville，之後前往匹茲堡，然後入住住所休息。華盛頓距離匹茲堡的車程大約需要三個半小時，行程可以依據當日情況進行調整。",
+        "hotel": "Southside Pitt Home w/ Pool Table + Yard",
+        "hotelURL": "https://www.airbnb.com/rooms/722449626005511538?source_impression_id=p3_1680638223_zaP9RODJBRyaQt%2BT",
+        "hotelAddress": "1819 Edwards Way Pittsburgh, PA 15203",
         "photos": [
-            { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+            { "src": "media/dc6.png", "caption": "華盛頓傑斐遜紀念堂" },
+            { "src": "media/pit1.png", "caption": "匹茲堡流水別墅" },
+            { "src": "media/pit_bnb.png", "caption": "匹茲堡的住所" }
         ]
     },
     {
         "date": "5月13日",
-        "activity": "Arrival and check-in",
-        "hotel": "Hotel Name",
-        "hotelAddress": "123 Hotel Street, City, Country",
+        "activity": "早上，侯博文將前往ETIM的小規模畢業活動，由於開始時間較早，大家可以在酒店好好休息，睡到自然醒。活動結束後，我們將一起享用午餐，之後可以參觀匹茲堡大學、卡耐基梅隆大學以及周圍的景點，例如勝利公園。晚上，我們將在匹茲堡南岸的德國餐廳品嚐當地的德國美食。晚餐後，我們可以前往mt Washington欣賞匹茲堡的夜景，感受城市的美麗風光。最後，回到住所休息，為明天的旅程做好準備。",
+        "hotel": "Southside Pitt Home w/ Pool Table + Yard",
+        "hotelURL": "https://www.airbnb.com/rooms/722449626005511538?source_impression_id=p3_1680638223_zaP9RODJBRyaQt%2BT",
+        "hotelAddress": "1819 Edwards Way Pittsburgh, PA 15203",
         "photos": [
-            { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+            { "src": "media/dc6.png", "caption": "華盛頓傑斐遜紀念堂" },
+            { "src": "media/pit1.png", "caption": "匹茲堡流水別墅" },
+            { "src": "media/pit_bnb.png", "caption": "匹茲堡的住所" }
         ]
     },
     {
         "date": "5月14日",
-        "activity": "Arrival and check-in",
-        "hotel": "Hotel Name",
-        "hotelAddress": "123 Hotel Street, City, Country",
+        "activity": "早上10:00退房後，您可以前往rockville享用地道的中國美食，那裡是華盛頓特區周圍規模比較大的華人區。午餐後，您可以選擇驅車前往賓夕法尼亞的流水別墅，或者繼續留在dc參觀周圍景點，例如DC動物園或者the wharf。如果您下午參觀流水別墅，晚餐會安排在賓夕法尼亞的匹茲堡，然後入住休息。如果您下午留在dc，晚餐會繼續安排在rockville，之後前往匹茲堡，然後入住住所休息。華盛頓距離匹茲堡的車程大約需要三個半小時，行程可以依據當日情況進行調整。",
+        "hotel": "Southside Pitt Home w/ Pool Table + Yard",
+        "hotelURL": "https://www.airbnb.com/rooms/722449626005511538?source_impression_id=p3_1680638223_zaP9RODJBRyaQt%2BT",
+        "hotelAddress": "1819 Edwards Way Pittsburgh, PA 15203",
         "photos": [
-            { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+            { "src": "media/dc6.png", "caption": "華盛頓傑斐遜紀念堂" },
+            { "src": "media/pit1.png", "caption": "匹茲堡流水別墅" },
+            { "src": "media/pit_bnb.png", "caption": "匹茲堡的住所" }
         ]
     },
     {
