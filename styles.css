@@ -57,6 +57,15 @@ h2 {
     font-size: 0.9em;
 }
 
+.day-detail a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.day-detail a:hover {
+    text-decoration: underline;
+}
+
 strong {
     color: #007BFF;
     font-weight: 700;

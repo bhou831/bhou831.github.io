@@ -1,8 +1,9 @@
 [
     {
         "date": "5月6日",
-        "activity": "下午15:25，您將搭乘BR870從香港飛往台北，預計於當地時間17:15抵達桃園國際機場。在那裡您將有4個小時的轉機時間，可以逛逛商店、品嘗台灣小吃。晚上22:00，您將搭乘BR52飛往休斯敦，並預計於次日凌晨23:00抵達。在抵達休斯敦後，您可以前往美國最高等的漢堡店In-N-Out品嚐當地美食。最後，我們將為您安排入住休斯敦的酒店，您可以在那裡稍作休息，並調整時差。",
+        "activity": "下午15:25，您將搭乘BR870從香港飛往台北，預計於當地時間17:15抵達桃園國際機場。在那裡您將有4個小時的轉機時間，可以逛逛商店、品嘗台灣小吃。晚上22:00，您將搭乘BR52飛往休斯敦，並預計於次日凌晨23:00抵達。在抵達休斯敦後，可以前往美國最高等的漢堡店In-N-Out品嚐當地美食。最後，我們將為您安排入住休斯敦的萬豪酒店，您可以在那裡稍作休息，並調整時差。",
         "hotel": "休斯頓萬豪酒店",
+        "hotelURL": "https://www.marriott.com/en-us/hotels/houmc-houston-marriott-medical-center-museum-district/overview/",
         "hotelAddress": "6580 Fannin St, Houston, TX 77030",
         "photos": [
             { "src": "media/houston1.png", "caption": "休斯頓天際線" },
@@ -12,11 +13,12 @@
     }, 
     {
         "date": "5月7日",
-        "activity": "Arrival and check-in",
-        "hotel": "Hotel Name",
-        "hotelAddress": "123 Hotel Street, City, Country",
+        "activity": "早上享用美味的早餐後，開車前往休斯頓市區，在市中心驅車隨意轉一轉，感受當地的文化和風情。中午，將前往休斯頓的中國城品嚐當地的中式美食。午餐過後，您將開車前往奧斯汀，大約需要三個小時的路程。抵達奧斯汀後，我們將為您安排入住在奧斯汀富人區的airbnb，在那裡稍作休息，您之後可以參觀qxl公司VISA，並參觀qxl精品洋房，也可以選擇前往Oaiss看日落。晚餐可以選擇德州特色烤肉或者Texas Roadhouse。",
+        "hotel": "Oasis in the Hills",
+        "hotelAddress": "Wild Basin Ledge, Austin, TX",
         "photos": [
             { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" },
             { "src": "photo2.jpg", "caption": "Photo caption 2" }
         ]
     },

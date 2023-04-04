@@ -54,7 +54,11 @@ function createDay(day) {
 
     const hotel = document.createElement('p');
     hotel.classList.add('day-detail');
-    hotel.innerHTML = `<strong>Hotel:</strong> ${day.hotel}<br>${day.hotelAddress}`;
+    hotel.innerHTML = `
+        <strong>Hotel:</strong> 
+        <a href="${day.hotelURL}" target="_blank">${day.hotel}</a><br>
+        ${day.hotelAddress}
+    `;
     dayDetails.appendChild(hotel);
 
     dayDiv.appendChild(dayDetails);
