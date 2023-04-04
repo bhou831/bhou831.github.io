@@ -121,64 +121,72 @@
     },
     {
         "date": "5月16日",
-        "activity": "早上10:00退房後，您可以品嚐美國特色早午飯brunch作為午餐。接著，我們將開車前往Easton拉法耶特學院，車程大約需要四個小時。在那裡，您可以逛校園，感受大學的氛圍和文化。晚餐時，我們將品嚐hbw大學食堂-尚味，這是一家正宗的川菜餐廳。晚餐後，我們將開車前往紐約，車程大約需要一個小時。晚上，您可以前往liberty state park觀賞自由女神像和紐約哈得遜河河濱的夜景，讓您的旅程更加難忘。",
+        "activity": "今天早上您可以睡到自然醒。午餐時，我們將前往紐約中國城chinatown，品嚐正宗的早茶。下午，我們將前往紐約下城遊玩，從布魯克林大橋走到dumbo，之後參觀華爾街和購物聖地soho，讓您的旅程充滿活力和活力。晚餐時，我們將前往位於hudson yard的豪華新美式豪華101樓夜景餐廳Peak，品嚐美食的同時欣賞紐約的夜景。",
         "hotel": "NJ Airbnb",
         "hotelURL": "https://www.airbnb.com/rooms/53365516?source_impression_id=p3_1680641745_uTe4d4heye7YzAOk",
         "hotelAddress": "40 Irving Street, Unit #2 Jersey City, NJ 07307",
         "photos": [
-            { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" },
-            { "src": "photo3.jpg", "caption": "Photo caption 3"}
+            { "src": "media/cntown.jpg", "caption": "紐約中國城" },
+            { "src": "media/hudsonyard.jpg", "caption": "Hardson Yard" },
+            { "src": "media/dumbo.jpg", "caption": "布魯克林dumbo"}
         ]
     },
     {
         "date": "5月17日",
-        "activity": "Arrival and check-in",
-        "hotel": "Hotel Name",
-        "hotelAddress": "123 Hotel Street, City, Country",
+        "activity": "一大早，您可以開車前往高縣公園high line，享受早晨的美好時光。這裡是紐約市著名的公園之一，由一條廢棄的地鐵線改造而成，可以欣賞美麗的風景和城市的風貌。中午，您可以選擇在紐約的義大利餐廳Eatly或者在chelsea market解決午餐。午餐過後，您將開車前往波士頓，途中需要大約四個小時的車程。晚上，可以參加夜遊查爾斯河，欣賞波士頓的夜景和城市的風光。最後，我們將為您安排入住在波士頓的住所，讓您可以在那裡好好休息。",
+        "hotel": "Boston Southside",
+        "hotelURL": "https://www.airbnb.com/rooms/798602855076553875?source_impression_id=p3_1680643764_E8pGgFIyT%2BWJpviV",
+        "hotelAddress": "1 Onslow Terrace, Boston, MA 02127",
         "photos": [
-            { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+            { "src": "media/highline.jpg", "caption": "高線公園" },
+            { "src": "media/bos3.jpg", "caption": "波士頓查爾斯河畔" },
+            { "src": "media/bosstay.jpg", "caption": "波士頓住所"}
         ]
     },
     {
         "date": "5月18日",
-        "activity": "Arrival and check-in",
-        "hotel": "Hotel Name",
-        "hotelAddress": "123 Hotel Street, City, Country",
+        "activity": "今天早上遊覽剑桥城美國頂級大學-MIT麻省理工大學和哈佛大學，感受當地的學術氛圍和校園文化。中午可以沿著查尔斯河畔散步，欣賞美麗的風景，並遊覽波士頓老城区，了解當地的歷史文化。下午將前往波士頓新區海港城Sea port，享受波士頓新舊文化的交融，感受城市的現代氛圍。在那裡您可以欣賞當地的建築和風景。",
+        "hotel": "Boston Southside",
+        "hotelURL": "https://www.airbnb.com/rooms/798602855076553875?source_impression_id=p3_1680643764_E8pGgFIyT%2BWJpviV",
+        "hotelAddress": "1 Onslow Terrace, Boston, MA 02127",
         "photos": [
-            { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+            { "src": "media/mit.jpg", "caption": "麻省理工大學" },
+            { "src": "media/bos.jpg", "caption": "波士頓市中心" },
+            { "src": "media/bos1.jpg", "caption": "波士頓海港區"}
         ]
     },
     {
         "date": "5月19日",
-        "activity": "Arrival and check-in",
-        "hotel": "Hotel Name",
-        "hotelAddress": "123 Hotel Street, City, Country",
+        "activity": "早上，我們將安排您前往麻省的Plymouth進行一日遊放鬆一天。在那裡，您可以參觀紀念碑和國家公園，深入了解美國的歷史和文化。普利茅斯是美国马萨诸塞州的一座城镇，也是美国历史上最具有象征意义的城镇之一。1620年，清教徒在这里建立了第一个永久性欧洲定居点。可以前往著名的普利茅斯岩石Plymouth Rock參觀，欣賞這個著名的地標。中午，您可以品嚐當地的波士頓龍蝦，享受午餐，下午在海邊坐下靜靜享受新英格蘭的海風和美景。",
+        "hotel": "Boston Southside",
+        "hotelURL": "https://www.airbnb.com/rooms/798602855076553875?source_impression_id=p3_1680643764_E8pGgFIyT%2BWJpviV",
+        "hotelAddress": "1 Onslow Terrace, Boston, MA 02127",
         "photos": [
-            { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+            { "src": "media/plymouth.jpg", "caption": "普利茅斯" },
+            { "src": "media/plymouth2.jpg", "caption": "普利茅斯" },
+            { "src": "media/plymouth3.jpg", "caption": "新英格蘭的海邊"}
         ]
     },
     {
         "date": "5月20日",
-        "activity": "Arrival and check-in",
-        "hotel": "Hotel Name",
-        "hotelAddress": "123 Hotel Street, City, Country",
+        "activity": "旅程鄰近尾聲，在住所享用美味的早餐後，出發前往美東最大最豪華的奧特萊斯woodbury購物中心，盡情享受購物的樂趣。在那裡，您可以找到各種各樣的商品，包括時尚服飾、鞋子、手袋、珠寶首飾等等。請準備好足夠的錢，讓您可以大聲地喊出“購物天堂，我來了！”的感嘆。在逛完購物中心後，您可以返回住所，好好休息，為明天勞累的旅程做好準備。",
+        "hotel": "代定，暫定在哥大附近",
+        "hotelAddress": "booking.com",
         "photos": [
-            { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+            { "src": "media/bs_mn.jpg", "caption": "波士頓夏天的早晨" },
+            { "src": "media/wdbr.jpg", "caption": "Woodbury奧特萊斯" },
+            { "src": "media/road.jpg", "caption": "寧靜的鄉間小道" }
         ]
     },
     {
         "date": "5月21日",
-        "activity": "Arrival and check-in",
-        "hotel": "Hotel Name",
-        "hotelAddress": "123 Hotel Street, City, Country",
+        "activity": "早上，需要退房，收拾好所有行李，並準備前往哥倫比亞大學參觀tracy的大學。在那裡，您可以深入了解紐約自由的學術氛圍和文化。中午在就近的餐廳享用午餐後，可以步行前往紐約中央公園，欣賞美麗的風景和城市的風光。接著，您可以沿著第五大道散步，參觀著名的大樓例如特朗普大廈，黑石公司大樓，了解紐約的金融中心。晚餐時分，我們將為您安排前往紐約華人區法拉盛品嚐當地的美食。晚餐後，我們將安排送您前往JFK機場，結束這次美國之旅，歡迎下次再來。",
+        "hotel": "今晚無酒店安排，在飛機上過夜",
+        "hotelAddress": "bhou831.github.io",
         "photos": [
-            { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+            { "src": "media/cu.jpg", "caption": "哥倫比亞大學" },
+            { "src": "media/cp.jpg", "caption": "紐約市中央公園" },
+            { "src": "media/bx.jpg", "caption": "崔雅婷公司" }
         ]
     }
 ]
