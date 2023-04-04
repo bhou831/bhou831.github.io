@@ -39,6 +39,9 @@ function createDay(day) {
     const dayDiv = document.createElement('div');
     dayDiv.classList.add('day');
 
+    const photosContainer = document.createElement('div');
+    photosContainer.className = 'photos';
+
     const dayInfo = document.createElement('div');
     dayInfo.classList.add('day-info');
     dayInfo.innerHTML = `<h2>${day.date}</h2>`;
@@ -66,8 +69,15 @@ function createDay(day) {
     const dayPhotos = document.createElement('div');
     dayPhotos.classList.add('day-photos');
     day.photos.forEach(photo => {
+        const photoContainer = document.createElement('div');
+        photoContainer.className = 'photo';
+
+        if (day.photos.length === 1) {
+            photoContainer.classList.add('single-photo');
+        }
+        
         const photoDiv = document.createElement('div');
-        photoDiv.classList.add('photo');
+        photoDiv.classList.add('photo')
 
         const img = document.createElement('img');
         img.src = photo.src;

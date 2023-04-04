@@ -120,6 +120,14 @@ strong {
     opacity: 1;
 }
 
+.photos.single-photo {
+    width: 1%;
+}
+
+.photos.double-photo {
+    width: 50%;
+}
+
 footer {
     background-color: #ffffff;
     padding: 10px;

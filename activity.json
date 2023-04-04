@@ -78,7 +78,6 @@
         "hotelURL": "https://www.airbnb.com/rooms/722449626005511538?source_impression_id=p3_1680638223_zaP9RODJBRyaQt%2BT",
         "hotelAddress": "1819 Edwards Way Pittsburgh, PA 15203",
         "photos": [
-            { "src": "media/dc6.png", "caption": "華盛頓傑斐遜紀念堂" },
             { "src": "media/pit1.png", "caption": "匹茲堡流水別墅" },
             { "src": "media/pit_bnb.png", "caption": "匹茲堡的住所" }
         ]
@@ -90,21 +89,18 @@
         "hotelURL": "https://www.airbnb.com/rooms/722449626005511538?source_impression_id=p3_1680638223_zaP9RODJBRyaQt%2BT",
         "hotelAddress": "1819 Edwards Way Pittsburgh, PA 15203",
         "photos": [
-            { "src": "media/dc6.png", "caption": "華盛頓傑斐遜紀念堂" },
-            { "src": "media/pit1.png", "caption": "匹茲堡流水別墅" },
-            { "src": "media/pit_bnb.png", "caption": "匹茲堡的住所" }
+            { "src": "media/pit_sl.png", "caption": "匹茲堡勝利公園" },
+            { "src": "media/pit_night.jpeg", "caption": "匹茲堡的夜景" }
         ]
     },
     {
         "date": "5月14日",
-        "activity": "早上10:00退房後，您可以前往rockville享用地道的中國美食，那裡是華盛頓特區周圍規模比較大的華人區。午餐後，您可以選擇驅車前往賓夕法尼亞的流水別墅，或者繼續留在dc參觀周圍景點，例如DC動物園或者the wharf。如果您下午參觀流水別墅，晚餐會安排在賓夕法尼亞的匹茲堡，然後入住休息。如果您下午留在dc，晚餐會繼續安排在rockville，之後前往匹茲堡，然後入住住所休息。華盛頓距離匹茲堡的車程大約需要三個半小時，行程可以依據當日情況進行調整。",
+        "activity": "今天早上，卡耐基梅隆大學將於10:00-11:30舉行2023年的畢業典禮，結束後我們將在附近享用簡單的午餐。下午1:00-3:00將是工學院的畢業證頒發儀式，3:00-5:00是工學院的招待儀式，而4:00-6:30則是西霄厲的畢業典禮。活動結束後，我們將一起享用晚餐，然後回到酒店休息。",
         "hotel": "Southside Pitt Home w/ Pool Table + Yard",
         "hotelURL": "https://www.airbnb.com/rooms/722449626005511538?source_impression_id=p3_1680638223_zaP9RODJBRyaQt%2BT",
         "hotelAddress": "1819 Edwards Way Pittsburgh, PA 15203",
         "photos": [
-            { "src": "media/dc6.png", "caption": "華盛頓傑斐遜紀念堂" },
-            { "src": "media/pit1.png", "caption": "匹茲堡流水別墅" },
-            { "src": "media/pit_bnb.png", "caption": "匹茲堡的住所" }
+            { "src": "media/cmu.png", "caption": "華盛頓傑斐遜紀念堂" }
         ]
     },
     {
