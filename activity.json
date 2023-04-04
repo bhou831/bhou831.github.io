@@ -15,11 +15,12 @@
         "date": "5月7日",
         "activity": "早上享用美味的早餐後，開車前往休斯頓市區，在市中心驅車隨意轉一轉，感受當地的文化和風情。中午，將前往休斯頓的中國城品嚐當地的中式美食。午餐過後，您將開車前往奧斯汀，大約需要三個小時的路程。抵達奧斯汀後，我們將為您安排入住在奧斯汀富人區的airbnb，在那裡稍作休息，您之後可以參觀qxl公司VISA，並參觀qxl精品洋房，也可以選擇前往Oaiss看日落。晚餐可以選擇德州特色烤肉或者Texas Roadhouse。",
         "hotel": "Oasis in the Hills",
+        "hotelURL": "https://www.airbnb.com/rooms/685078233761281437?source_impression_id=p3_1680634900_3z%2Fdh38hTP44vGjg",
         "hotelAddress": "Wild Basin Ledge, Austin, TX",
         "photos": [
-            { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+            { "src": "media/austin5.png", "caption": "奧斯汀市中心" },
+            { "src": "media/austin1.png", "caption": "VISA奧斯汀" },
+            { "src": "media/austin3.png", "caption": "晚上入住的Airbnb" }
         ]
     },
     {
