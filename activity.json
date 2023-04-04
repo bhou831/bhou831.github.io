@@ -109,22 +109,26 @@
     },
     {
         "date": "5月15日",
-        "activity": "Arrival and check-in",
-        "hotel": "Hotel Name",
-        "hotelAddress": "123 Hotel Street, City, Country",
+        "activity": "早上10:00退房後，您可以品嚐美國特色早午飯brunch作為午餐。接著，我們將開車前往Easton拉法耶特學院，車程大約需要四個小時。在那裡，您可以逛校園，感受大學的氛圍和文化。晚餐時，我們將品嚐hbw大學食堂-尚味，這是一家正宗的川菜餐廳。晚餐後，我們將開車前往紐約，車程大約需要一個小時。晚上，您可以前往liberty state park觀賞自由女神像和紐約哈得遜河河濱的夜景，讓您的旅程更加難忘。",
+        "hotel": "NJ Airbnb",
+        "hotelURL": "https://www.airbnb.com/rooms/53365516?source_impression_id=p3_1680641745_uTe4d4heye7YzAOk",
+        "hotelAddress": "40 Irving Street, Unit #2 Jersey City, NJ 07307",
         "photos": [
-            { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+            { "src": "media/laf.jpg", "caption": "拉法耶特學院" },
+            { "src": "media/sol.jpg", "caption": "自由女神像" },
+            { "src": "media/hbk.jpg", "caption": "從新澤西看紐約夜景"}
         ]
     },
     {
         "date": "5月16日",
-        "activity": "Arrival and check-in",
-        "hotel": "Hotel Name",
-        "hotelAddress": "123 Hotel Street, City, Country",
+        "activity": "早上10:00退房後，您可以品嚐美國特色早午飯brunch作為午餐。接著，我們將開車前往Easton拉法耶特學院，車程大約需要四個小時。在那裡，您可以逛校園，感受大學的氛圍和文化。晚餐時，我們將品嚐hbw大學食堂-尚味，這是一家正宗的川菜餐廳。晚餐後，我們將開車前往紐約，車程大約需要一個小時。晚上，您可以前往liberty state park觀賞自由女神像和紐約哈得遜河河濱的夜景，讓您的旅程更加難忘。",
+        "hotel": "NJ Airbnb",
+        "hotelURL": "https://www.airbnb.com/rooms/53365516?source_impression_id=p3_1680641745_uTe4d4heye7YzAOk",
+        "hotelAddress": "40 Irving Street, Unit #2 Jersey City, NJ 07307",
         "photos": [
             { "src": "media/austin.png", "caption": "Photo caption 1" },
-            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+            { "src": "photo2.jpg", "caption": "Photo caption 2" },
+            { "src": "photo3.jpg", "caption": "Photo caption 3"}
         ]
     },
     {
