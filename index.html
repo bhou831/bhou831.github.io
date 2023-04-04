@@ -118,7 +118,7 @@
             var input = document.getElementById('userInput').value;
             var result = document.getElementById('result');
 
-            if (input === 'ao wo' || input === '小🐒' || input === '小猴') {
+            if (input === 'ao wo' || input == '小🐒') {
                 result.innerHTML = '<span style="color: green; animation: fadeToWhite 4s forwards;">好吧</span>';
             } else if (input === ''){
                 result.innerHTML = '<span style="color: red;">你是shui啊</span><span class="jumping-question-mark" style="color: red;">？</span>';
