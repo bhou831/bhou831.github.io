@@ -3,129 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Website</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-        }
-
-        .input-container {
-            display: flex;
-            flex-wrap: nowrap;
-            align-items: center;
-        }
-
-        label.input {
-            margin-right: 5px;
-            font-weight: bold;
-        }
-
-        input[type="text"] {
-            padding: 6px 12px;
-            font-size: 14px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            flex-grow: 1;
-        }
-
-        button {
-            background-color: #4CAF50;
-            color: white;
-            padding: 6px 12px;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            margin-left: 5px;
-        }
-
-        button:hover {
-            background-color: #45a049;
-        }
-
-        #result {
-            margin-top: 20px;
-            font-size: 16px;
-        }
-
-        h1 {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-
-        .color1 {
-            color: #74a6f8;
-        }
-
-        .color2 {
-            color: #FFA726;
-            font-size: 50px;
-        }
-
-        .jumping-question-mark,
-        .jumping-exclamation-mark {
-            display: inline-block;
-            animation: jumpAnimation 1s infinite;
-        }
-
-        @keyframes jumpAnimation {
-            0%, 100% {
-                transform: translateY(0%);
-            }
-            50% {
-                transform: translateY(-10%);
-            }
-        }
-
-        @keyframes fadeToWhite {
-            0% {
-                opacity: 1;
-            }
-            100% {
-                opacity: 0;
-                color: white;
-            }
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <script src="script.js"></script>
+    <title>Trip in USA</title>
 </head>
 <body>
-    <div>
-        <h1>
-            <span class="color1">
-                你是
-            </span>
-            <span class="color2">
-                Shui
-            </span>
-            <span class="jumping-question-mark">
-                ？
-            </span></h1>
-            <div class="input-container">
-                <label class="input" for="userInput">我是: </label>
-                <input type="text" id="userInput" />
-                <button onclick="checkInput()">Submit</button>
-            </div>
-        <p id="result"></p>
-    </div>
-    <script>
-        function checkInput() {
-            var input = document.getElementById('userInput').value;
-            var result = document.getElementById('result');
-
-            if (input === 'ao wo' || input == '小🐒') {
-                result.innerHTML = '<span style="color: green; animation: fadeToWhite 4s forwards;">好吧</span>';
-            } else if (input === ''){
-                result.innerHTML = '<span style="color: red;">你是shui啊</span><span class="jumping-question-mark" style="color: red;">？</span>';
-            } else {
-                result.innerHTML = '<span style="color: red;">你根本不是</span><span style="color: red;">' + input + '</span><span class="jumping-exclamation-mark" style="color: red;">！</span>';
-            }
-        }
-    </script>
+    <header>
+        <h1>美國遊行程安排: 2023/05/06 - 2023/05/22</h1>
+    </header>
+    <main>
+    </main>
+    <footer>
+        <p>Created with love by OpenAI GPT-4 and the Kids</p>
+    </footer>
 </body>
 </html>

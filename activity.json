@@ -1,0 +1,163 @@
+[
+    {
+        "date": "5月6日",
+        "activity": "下午15:25，您將搭乘BR870從香港飛往台北，預計於當地時間17:15抵達桃園國際機場。在那裡您將有4個小時的轉機時間，可以逛逛商店、品嘗台灣小吃。晚上22:00，您將搭乘BR52飛往休斯敦，並預計於次日凌晨23:00抵達。在抵達休斯敦後，您可以前往美國最高等的漢堡店In-N-Out品嚐當地美食。最後，我們將為您安排入住休斯敦的酒店，您可以在那裡稍作休息，並調整時差。",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "media/austin.png", "caption": "Photo caption 2" },
+            { "src": "media/austin.png", "caption": "Photo caption 2" }
+        ]
+    }, 
+    {
+        "date": "5月7日",
+        "activity": "Arrival and check-in",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+        ]
+    },
+    {
+        "date": "5月8日",
+        "activity": "Arrival and check-in",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+        ]
+    },
+    {
+        "date": "5月9日",
+        "activity": "Arrival and check-in",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+        ]
+    },
+    {
+        "date": "5月10日",
+        "activity": "Arrival and check-in",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+        ]
+    },
+    {
+        "date": "5月11日",
+        "activity": "Arrival and check-in",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+        ]
+    },
+    {
+        "date": "5月12日",
+        "activity": "Arrival and check-in",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+        ]
+    },
+    {
+        "date": "5月13日",
+        "activity": "Arrival and check-in",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+        ]
+    },
+    {
+        "date": "5月14日",
+        "activity": "Arrival and check-in",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+        ]
+    },
+    {
+        "date": "5月15日",
+        "activity": "Arrival and check-in",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+        ]
+    },
+    {
+        "date": "5月16日",
+        "activity": "Arrival and check-in",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+        ]
+    },
+    {
+        "date": "5月17日",
+        "activity": "Arrival and check-in",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+        ]
+    },
+    {
+        "date": "5月18日",
+        "activity": "Arrival and check-in",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+        ]
+    },
+    {
+        "date": "5月19日",
+        "activity": "Arrival and check-in",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+        ]
+    },
+    {
+        "date": "5月20日",
+        "activity": "Arrival and check-in",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+        ]
+    },
+    {
+        "date": "5月21日",
+        "activity": "Arrival and check-in",
+        "hotel": "Hotel Name",
+        "hotelAddress": "123 Hotel Street, City, Country",
+        "photos": [
+            { "src": "media/austin.png", "caption": "Photo caption 1" },
+            { "src": "photo2.jpg", "caption": "Photo caption 2" }
+        ]
+    }
+]
