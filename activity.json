@@ -6,8 +6,8 @@
         "hotelURL": "https://www.marriott.com/en-us/hotels/houmc-houston-marriott-medical-center-museum-district/overview/",
         "hotelAddress": "6580 Fannin St, Houston, TX 77030",
         "photos": [
-            { "src": "media/houston1.png", "caption": "休斯頓天際線" },
-            { "src": "media/houston2.png", "caption": "休斯頓國際機場" },
+            { "src": "media/houston1.jpg", "caption": "休斯頓天際線" },
+            { "src": "media/houston2.jpg", "caption": "休斯頓國際機場" },
             { "src": "media/houston3.jpg", "caption": "休斯頓萬豪酒店" }
         ]
     }, 
@@ -18,9 +18,9 @@
         "hotelURL": "https://www.airbnb.com/rooms/685078233761281437?source_impression_id=p3_1680634900_3z%2Fdh38hTP44vGjg",
         "hotelAddress": "Wild Basin Ledge, Austin, TX",
         "photos": [
-            { "src": "media/austin2.png", "caption": "奧斯汀Oasis晚霞" },
-            { "src": "media/austin1.png", "caption": "VISA奧斯汀" },
-            { "src": "media/austin3.png", "caption": "晚上入住的Airbnb" }
+            { "src": "media/austin2.jpg", "caption": "奧斯汀Oasis晚霞" },
+            { "src": "media/austin1.jpg", "caption": "VISA奧斯汀" },
+            { "src": "media/austin3.jpg", "caption": "晚上入住的Airbnb" }
         ]
     },
     {
@@ -30,9 +30,9 @@
         "hotelURL": "https://www.airbnb.com/rooms/685078233761281437?source_impression_id=p3_1680634900_3z%2Fdh38hTP44vGjg",
         "hotelAddress": "Wild Basin Ledge, Austin, TX",
         "photos": [
-            { "src": "media/austin5.png", "caption": "奧斯汀水上活動" },
-            { "src": "media/austin4.png", "caption": "奧斯汀Domain區域" },
-            { "src": "media/austin_zilker.png", "caption": "奧斯汀Zilker Park" }
+            { "src": "media/austin5.jpg", "caption": "奧斯汀水上活動" },
+            { "src": "media/austin4.jpg", "caption": "奧斯汀Domain區域" },
+            { "src": "media/austin_zilker.jpg", "caption": "奧斯汀Zilker Park" }
         ]
     },
     {
@@ -42,9 +42,9 @@
         "hotelURL": "https://www.airbnb.com/rooms/40567873?source_impression_id=p3_1680636236_h2mVqPrViO4if9kM",
         "hotelAddress": "1617 W Street Southeast Washington, DC 20020",
         "photos": [
-            { "src": "media/austin6.png", "caption": "奧斯汀水上活動" },
-            { "src": "media/austin_food.jpeg", "caption": "奧斯汀餐車" },
-            { "src": "media/dc_bnb.png", "caption": "晚上入住的Airbnb" }
+            { "src": "media/austin6.jpg", "caption": "奧斯汀水上活動" },
+            { "src": "media/austin_food.jpg", "caption": "奧斯汀餐車" },
+            { "src": "media/dc_bnb.jpg", "caption": "晚上入住的Airbnb" }
         ]
     },
     {
@@ -54,9 +54,9 @@
         "hotelURL": "https://www.airbnb.com/rooms/40567873?source_impression_id=p3_1680636236_h2mVqPrViO4if9kM",
         "hotelAddress": "1617 W Street Southeast Washington, DC 20020",
         "photos": [
-            { "src": "media/dc2.png", "caption": "華盛頓紀念碑" },
-            { "src": "media/dc1.png", "caption": "國會山" },
-            { "src": "media/dolan.png", "caption": "Dolan新疆菜" }
+            { "src": "media/dc2.jpg", "caption": "華盛頓紀念碑" },
+            { "src": "media/dc1.jpg", "caption": "國會山" },
+            { "src": "media/dolan.jpg", "caption": "Dolan新疆菜" }
         ]
     },
     {
@@ -66,9 +66,9 @@
         "hotelURL": "https://www.airbnb.com/rooms/40567873?source_impression_id=p3_1680636236_h2mVqPrViO4if9kM",
         "hotelAddress": "1617 W Street Southeast Washington, DC 20020",
         "photos": [
-            { "src": "media/dc4.png", "caption": "華盛頓植物園" },
-            { "src": "media/dc3.jpeg", "caption": "華盛頓georgetown運河" },
-            { "src": "media/dc5.jpeg", "caption": "華盛頓georgetown的傍晚" }
+            { "src": "media/dc4.jpg", "caption": "華盛頓植物園" },
+            { "src": "media/dc3.jpg", "caption": "華盛頓georgetown運河" },
+            { "src": "media/dc5.jpg", "caption": "華盛頓georgetown的傍晚" }
         ]
     },
     {
@@ -78,8 +78,9 @@
         "hotelURL": "https://www.airbnb.com/rooms/722449626005511538?source_impression_id=p3_1680638223_zaP9RODJBRyaQt%2BT",
         "hotelAddress": "1819 Edwards Way Pittsburgh, PA 15203",
         "photos": [
-            { "src": "media/pit1.png", "caption": "匹茲堡流水別墅" },
-            { "src": "media/pit_bnb.png", "caption": "匹茲堡的住所" }
+            { "src": "media/dc6.jpg", "caption": "傑斐遜紀念堂" },
+            { "src": "media/pit1.jpg", "caption": "匹茲堡流水別墅" },
+            { "src": "media/pit_bnb.jpg", "caption": "匹茲堡的住所" }
         ]
     },
     {
@@ -89,8 +90,9 @@
         "hotelURL": "https://www.airbnb.com/rooms/722449626005511538?source_impression_id=p3_1680638223_zaP9RODJBRyaQt%2BT",
         "hotelAddress": "1819 Edwards Way Pittsburgh, PA 15203",
         "photos": [
-            { "src": "media/pit_sl.png", "caption": "匹茲堡勝利公園" },
-            { "src": "media/pit_night.jpeg", "caption": "匹茲堡的夜景" }
+            { "src": "media/pit_sl.jpg", "caption": "匹茲堡勝利公園" },
+            { "src": "media/pit_night.jpg", "caption": "匹茲堡的夜景" },
+            { "src": "media/pit4.jpg", "caption": "匹茲堡的夜景" }
         ]
     },
     {
@@ -100,7 +102,9 @@
         "hotelURL": "https://www.airbnb.com/rooms/722449626005511538?source_impression_id=p3_1680638223_zaP9RODJBRyaQt%2BT",
         "hotelAddress": "1819 Edwards Way Pittsburgh, PA 15203",
         "photos": [
-            { "src": "media/cmu.png", "caption": "華盛頓傑斐遜紀念堂" }
+            { "src": "media/cmu.jpg", "caption": "卡耐基梅隆大學" },
+            { "src": "media/cmu2.jpg", "caption": "卡耐基梅隆大學" },
+            { "src": "media/pit3.jpg", "caption": "卡耐基梅隆大學和匹茲堡大學" }
         ]
     },
     {
