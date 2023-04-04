@@ -11,6 +11,30 @@ async function fetchData() {
     }
 }
 
+function openLightbox(src, caption) {
+    const lightbox = document.createElement('div');
+    lightbox.id = 'lightbox';
+    lightbox.innerHTML = `
+        <div class="lightbox-content">
+            <span class="close">&times;</span>
+            <img src="${src}" alt="Expanded photo">
+            <p class="lightbox-caption">${caption}</p>
+        </div>
+    `;
+    document.body.appendChild(lightbox);
+
+    const closeBtn = document.querySelector('.close');
+    closeBtn.addEventListener('click', closeLightbox);
+}
+
+
+function closeLightbox() {
+    const lightbox = document.querySelector('#lightbox');
+    if (lightbox) {
+        lightbox.remove();
+    }
+}
+
 function createDay(day) {
     const dayDiv = document.createElement('div');
     dayDiv.classList.add('day');
@@ -45,6 +69,7 @@ function createDay(day) {
         img.src = photo.src;
         img.alt = `${day.date} photo`;
         photoDiv.appendChild(img);
+        img.addEventListener('click', () => openLightbox(photo.src, photo.caption));
 
         const caption = document.createElement('p');
         caption.classList.add('caption');

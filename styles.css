@@ -73,13 +73,20 @@ strong {
     position: relative;
     overflow: hidden;
     border-radius: 8px;
+    padding-top: 75%; /* 4:3 aspect ratio */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .photo img {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
-    height: auto;
-    display: block;
-    transition: transform 0.3s;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
 }
 
 .photo:hover img {
@@ -113,4 +120,52 @@ footer {
     border-top: 3px solid #007BFF;
     border-radius: 8px;
     font-size: 0.8em;
+}
+
+#lightbox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+}
+
+.lightbox-content {
+    position: relative;
+    width: 80%;
+    max-width: 800px;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.lightbox-caption {
+    margin-top: 10px;
+    font-size: 0.95em;
+    color: #fff;
+    text-align: center;
+    font-weight: 600;
+
+}
+
+.lightbox-content img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain;
+}
+
+.close {
+    position: absolute;
+    top: -20px;
+    right: -20px;
+    color: #fff;
+    font-size: 32px;
+    font-weight: bold;
+    cursor: pointer;
 }
