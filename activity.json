@@ -13,7 +13,7 @@
     }, 
     {
         "date": "5月7日",
-        "activity": "早上享用美味的早餐後，開車前往休斯頓市區，在市中心驅車隨意轉一轉，感受當地的文化和風情。中午，將前往休斯頓的中國城品嚐當地的中式美食。午餐過後，您將開車前往奧斯汀，大約需要三個小時的路程。抵達奧斯汀後，我們將為您安排入住在奧斯汀富人區的airbnb，在那裡稍作休息，您之後可以參觀qxl公司VISA，並參觀qxl精品洋房，也可以選擇前往Oaiss看日落。晚餐可以選擇德州特色烤肉或者Texas Roadhouse。",
+        "activity": "早上享用美味的早餐後，開車前往休斯頓市區，在市中心驅車隨意轉一轉，感受當地的文化和風情。中午，將前往休斯頓的中國城品嚐當地的中式美食。午餐過後，您將開車前往奧斯汀，大約需要三個小時的路程。抵達奧斯汀後，我們將為您安排入住在奧斯汀富人區的airbnb，在那裡稍作休息，您之後可以參觀qxl公司VISA，並參觀qxl精品洋房，也可以選擇前往Oasis看日落。晚餐可以選擇德州特色烤肉或者Texas Roadhouse。",
         "hotel": "Oasis in the Hills",
         "hotelURL": "https://www.airbnb.com/rooms/685078233761281437?source_impression_id=p3_1680634900_3z%2Fdh38hTP44vGjg",
         "hotelAddress": "Wild Basin Ledge, Austin, TX",
@@ -30,7 +30,7 @@
         "hotelURL": "https://www.airbnb.com/rooms/685078233761281437?source_impression_id=p3_1680634900_3z%2Fdh38hTP44vGjg",
         "hotelAddress": "Wild Basin Ledge, Austin, TX",
         "photos": [
-            { "src": "media/austin5.jpg", "caption": "奧斯汀水上活動" },
+            { "src": "media/austin5.jpg", "caption": "奧斯汀市中心" },
             { "src": "media/austin4.jpg", "caption": "奧斯汀Domain區域" },
             { "src": "media/austin_zilker.jpg", "caption": "奧斯汀Zilker Park" }
         ]
@@ -55,7 +55,7 @@
         "hotelAddress": "1617 W Street Southeast Washington, DC 20020",
         "photos": [
             { "src": "media/dc2.jpg", "caption": "華盛頓紀念碑" },
-            { "src": "media/dc1.jpg", "caption": "國會山" },
+            { "src": "media/dc1.jpg", "caption": "華盛頓國會山" },
             { "src": "media/dolan.jpg", "caption": "Dolan新疆菜" }
         ]
     },
@@ -171,7 +171,8 @@
         "date": "5月20日",
         "activity": "旅程鄰近尾聲，在住所享用美味的早餐後，出發前往美東最大最豪華的奧特萊斯woodbury購物中心，盡情享受購物的樂趣。在那裡，您可以找到各種各樣的商品，包括時尚服飾、鞋子、手袋、珠寶首飾等等。請準備好足夠的錢，讓您可以大聲地喊出“購物天堂，我來了！”的感嘆。在逛完購物中心後，您可以返回住所，好好休息，為明天勞累的旅程做好準備。",
         "hotel": "代定，暫定在哥大附近",
-        "hotelAddress": "booking.com",
+        "hotelURL": "booking.com",
+        "hotelAddress": "N/A",
         "photos": [
             { "src": "media/bos_mn.jpg", "caption": "波士頓夏天的早晨" },
             { "src": "media/wdbr.jpg", "caption": "Woodbury奧特萊斯" },
@@ -182,7 +183,8 @@
         "date": "5月21日",
         "activity": "早上，需要退房，收拾好所有行李，並準備前往哥倫比亞大學參觀tracy的大學。在那裡，您可以深入了解紐約自由的學術氛圍和文化。中午在就近的餐廳享用午餐後，可以步行前往紐約中央公園，欣賞美麗的風景和城市的風光。接著，您可以沿著第五大道散步，參觀著名的大樓例如特朗普大廈，黑石公司大樓，了解紐約的金融中心。晚餐時分，我們將為您安排前往紐約華人區法拉盛品嚐當地的美食。晚餐後，我們將安排送您前往JFK機場，結束這次美國之旅，歡迎下次再來。",
         "hotel": "今晚無酒店安排，在飛機上過夜",
-        "hotelAddress": "bhou831.github.io",
+        "hotelURL": "bhou831.github.io",
+        "hotelAddress": "N/A",
         "photos": [
             { "src": "media/cu.jpg", "caption": "哥倫比亞大學" },
             { "src": "media/cp.jpg", "caption": "紐約市中央公園" },
