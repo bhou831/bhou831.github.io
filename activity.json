@@ -171,7 +171,7 @@
         "date": "5月20日",
         "activity": "旅程鄰近尾聲，在住所享用美味的早餐後，出發前往美東最大最豪華的奧特萊斯woodbury購物中心，盡情享受購物的樂趣。在那裡，您可以找到各種各樣的商品，包括時尚服飾、鞋子、手袋、珠寶首飾等等。請準備好足夠的錢，讓您可以大聲地喊出“購物天堂，我來了！”的感嘆。在逛完購物中心後，您可以返回住所，好好休息，為明天勞累的旅程做好準備。",
         "hotel": "代定，暫定在哥大附近",
-        "hotelURL": "booking.com",
+        "hotelURL": "https://www.booking.com",
         "hotelAddress": "N/A",
         "photos": [
             { "src": "media/bos_mn.jpg", "caption": "波士頓夏天的早晨" },
